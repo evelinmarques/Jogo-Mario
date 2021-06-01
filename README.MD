@@ -1,26 +1,6 @@
-<h1 align="center">
-    <img alt="LOGO" height="90px" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" />
-    <br>
-    Api de reconhecimento de voz com javascript
-</h1>
-
 <h4 align="center">SUPER MARIO ENGLISH CHALLENGE</h4> 
 </br>
   <p align="center">Jogo do super mario para responder o nome das cores em inglês usando a API de reconhecimento de voz</p>
-
-<div align="center">
-  <h2>🎁DOWNLOAD DOS RECURSOS USADOS EM AULA👇</h2>
-  <a href="#white_check_mark-Features">BAIXAR AGORA MEUS RECURSOS</a>
-</div>
-
-<p align="center">
-  <a href="#white_check_mark-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-Como-utilizar">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-Licença">Licença</a>
-</p>
-
-
 
 ## :white_check_mark: Features
 
@@ -41,7 +21,7 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/felipeAguiarCode/jogo-mario.git
+$ git clone https://github.com/evelinmarques/Jogo-Mario.git
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador
 
