@@ -28,3 +28,5 @@ $ git clone https://github.com/evelinmarques/Jogo-Mario.git
 Em seguida execute o arquivo 'index.html' no seu navegador
 
 ## 🚀 Deploy: <a href="https://jogo-mario.evelinmarques.vercel.app/">Clique aqui</a> 
+
+Feito com 💜 por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a>
