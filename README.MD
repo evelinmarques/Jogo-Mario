@@ -48,9 +48,3 @@ Em seguida execute o arquivo 'index.html' no seu navegador
 
 ## :memo: Licença 
 This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
-
-## Autor
-
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---: |
-|[Linkedin](www.linkedin.com/in/felipe-aguiar-047)|
