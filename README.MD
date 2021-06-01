@@ -27,6 +27,4 @@ $ git clone https://github.com/evelinmarques/Jogo-Mario.git
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador
 
-
-## :memo: Licença 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
+## 🚀 Deploy: <a href="https://jogo-mario.evelinmarques.vercel.app/">Clique aqui</a> 
