@@ -1,13 +1,15 @@
-<h4 align="center">SUPER MARIO ENGLISH CHALLENGE</h4> 
-</br>
-  <p align="center">Jogo do super mario para responder o nome das cores em inglês usando a API de reconhecimento de voz</p>
+<h1 align="center"> 
+  Resultado Visual Esperado: 
+</h1>
+
+<img src="https://user-images.githubusercontent.com/56482367/120332495-2e88df80-c2c5-11eb-92c9-fb01407bc437.png" />
 
 ## :white_check_mark: Features
 
 * Possibilidade de responder em aúdio para se comunicar com o Browser
 * Layout construído com Flexbox
 
-## :globe_with_meridians: Tecnologias
+## :wrench: Tecnologias
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
@@ -15,7 +17,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 -  [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 -  [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
-## :wrench: Como Utilizar
+## :globe_with_meridians: Como Utilizar
 
 Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os seguintes comandos:
 
